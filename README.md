@@ -10,3 +10,7 @@ Learning and testing the git commands
 4.Checking the pull.
 
 5.Trying Git push.
+
+6.Comment added in the Test-Skeleton branch.
+
+7.Comment added From update readme branch from local.
