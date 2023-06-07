@@ -9,4 +9,4 @@ Learning and testing the git commands
 
 4.Checking the pull.
 
-5.Tring Git push.
+5.Trying Git push.
